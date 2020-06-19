@@ -29,4 +29,4 @@ while game_run:
         print('Thank you for playing, come back soon.')
         game_run = False
     else:
-        print('The character you have entered is not one of the given characters you can choose from.')
+        print('Pls type a y or a n and not any other letter or number.')
